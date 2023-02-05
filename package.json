@@ -27,7 +27,7 @@
     "url": "https://github.com/EstebanFuentealba/react-native-sqlite-sqlcipher/issues"
   },
   "peerDependencies": {
-    "react-native": "^0.71.2"
+    "react-native": "*"
   },
   "directories": {
     "lib": "lib",
