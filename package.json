@@ -27,7 +27,7 @@
     "url": "https://github.com/linchenhuicn/react-native-sqlcipher/issues"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.71.2"
   },
   "directories": {
     "lib": "lib",
