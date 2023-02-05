@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/linch/WebstormProjects/react-native-sqlcipher/platforms/ios/Sqlcipher.xcodeproj">
+      location = "self:/Users/linch/WebstormProjects/react-native-sqlite-sqlcipher/platforms/ios/Sqlcipher.xcodeproj">
    </FileRef>
 </Workspace>

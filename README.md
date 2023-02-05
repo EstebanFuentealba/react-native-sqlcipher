@@ -1,4 +1,4 @@
-# react-native-sqlcipher
+# react-native-sqlite-sqlcipher
 SQLCipher plugin for React Native. Based on the react-native-sqlite-storage project.
 
 Version 0.0.1 is forked from [andpor/react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage/) #4.1.0, Sqlcipher#4.3.0  
@@ -6,7 +6,7 @@ Version 0.0.4 is forked from [andpor/react-native-sqlite-storage](https://github
 
 ## Getting started
 
-`$ npm install react-native-sqlcipher --save`
+`$ npm install react-native-sqlite-sqlcipher --save`
 
 ### Mostly automatic installation
 
@@ -49,7 +49,7 @@ Modify you openDatabase call in your application adding createFromLocation param
 ```js
 
   ...
-  import DB from 'react-native-sqlcipher';
+  import DB from 'react-native-sqlite-sqlcipher';
 
   1.DB.openDatabase({name : "testDB", key: "yourPassword",createFromLocation : 1}, okCallback,errorCallback);
   // default - if your folder is called www and data file is named the same as the dbName - testDB in this example
